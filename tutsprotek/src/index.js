@@ -12,6 +12,9 @@ root.render(
   {/* this is third commit of the code  */}
 
 
+  {/* this is commit in branch new from master  fadsfdasfd */}
+
+
     
   </React.StrictMode>
 );
